@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Image Slider</string>
+    <string name="imageview">imageView</string>
+    <string name="go">전자액자\n실행</string>
+    <string name="add">사진 추가</string>
+</resources>
